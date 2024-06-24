@@ -18,7 +18,7 @@ interface Props {
         title: string;
         image: string;
         parent: {
-          title: string;
+          title: number;
         };
       }
     | undefined;
